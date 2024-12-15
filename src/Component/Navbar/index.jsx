@@ -32,7 +32,7 @@ const Navbar = () => {
             Album
           </a>
           <a
-            className="px-5 font-bold text-white text-xl hover:text-lime-600 ease-in-out duration-300"
+            className="hidden lg:inline px-5 font-bold text-white text-xl hover:text-lime-600 ease-in-out duration-300"
             href="/Loginabhaya"
             id="login"
           >
