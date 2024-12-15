@@ -10,7 +10,7 @@ const Hero = () => {
         <h1 className="lg:text-5xl text-3xl font-bold">
           <span className="text-lime-800">Hello </span>World,
         </h1>
-        <h1 className="lg:text-2xl text-lg font-semibold">
+        <h1 className="lg:text-2xl thisourweb text-lg font-semibold">
           this is our website{" "}
           <span className="text-lime-800">"abhaya dhairya 2024"</span>
         </h1>
