@@ -44,7 +44,7 @@ const Hero = () => {
               </span>
 
               <span className="text-sm font-medium transition-all group-hover:me-4">
-                Come on, explore our world!
+                Let's explore the world
               </span>
             </a>
 
@@ -71,7 +71,7 @@ const Hero = () => {
 
               <span className="text-sm font-medium transition-all group-hover:me-4">
                 {" "}
-                Contact Us{" "}
+                instagram{" "}
               </span>
             </a>
           </button>
