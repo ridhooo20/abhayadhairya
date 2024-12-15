@@ -71,7 +71,7 @@ const Hero = () => {
 
               <span className="text-sm font-medium transition-all group-hover:me-4">
                 {" "}
-                instagram{" "}
+                Let's follow our Instagram!{" "}
               </span>
             </a>
           </button>
