@@ -24,7 +24,7 @@ const Hero = () => {
           <button className="btn flex gap-4">
             <a
               className="group relative inline-flex items-center overflow-hidden rounded-md bg-lime-900 px-8 py-3 text-white focus:outline-none focus:ring active:bg-indigo-500"
-              href="#"
+              href="#album"
             >
               <span className="absolute -end-full transition-all group-hover:end-4">
                 <svg
