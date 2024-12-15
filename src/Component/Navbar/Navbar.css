@@ -1,0 +1,12 @@
+.navbar{
+    background: rgba(3, 123, 21, 0.534); /* Background semi-transparan untuk efek blur */
+    backdrop-filter: blur(10px); /* Efek blur pada latar belakang */
+    -webkit-backdrop-filter: blur(10px); /* Menambahkan prefix untuk dukungan browser Webkit */
+    z-index: 1000; /* Agar navbar tetap di atas konten */
+    transition: background 0.3s ease; /* Transisi halus untuk perubahan background */
+    width: 100%;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+};
+

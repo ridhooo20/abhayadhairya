@@ -1,0 +1,46 @@
+.rectangle{
+    content: '';
+    margin-top: -330px;
+    margin-left: 30px;
+    display: none;
+}
+
+.bgg{
+  min-height: 100vh; /* min-h-screen */
+  width: 100%; /* w-full */
+  background-color: black; /* bg-black */
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.2) 1.1px, transparent 1px); /* bg-[radial-gradient(...)] */
+  background-size: 20px 20px; /* bg-[length:20px_20px] */
+  
+}
+
+
+.blob1{
+    margin-top: -18rem;
+    margin-left: -15rem;
+    display: none;
+}
+
+.blob2{
+    margin-top: -7rem;
+    display: none;
+}
+
+
+
+@media (min-width: 1270px) and (max-width: 1300px){
+    .rectangle{
+        margin-top: -360px;
+        margin-left: 180px;
+        display: block;
+    }
+
+}
+
+
+@media (max-width: 642px) {
+    .rectangle{
+        display: block;
+    }
+}
+
