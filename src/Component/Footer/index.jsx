@@ -16,7 +16,7 @@ const Footer = () => {
           Website resmi Abhaya Dhairya, angkatan ODD 2024 Pramuka Universitas
           Sriwijaya. Temukan informasi dan perjalanan kami di sini!
         </p>
-        <p className="mx-auto mt-6 max-w-lg text-center leading-relaxed text-gray-500">2026 nanti ingetin admin revamp ni website</p>
+        <p className="mx-auto mt-6 max-w-lg text-center leading-relaxed text-gray-500">2025 nanti ingetin admin revamp ni website</p>
 
         <ul className="mt-12 flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
           <li>
